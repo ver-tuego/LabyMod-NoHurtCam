@@ -1,0 +1,11 @@
+{
+  "description": "Addon that disables screen shaking when taking damage (by dezc)",
+  "version": 1,
+  "author": "https://github.com/ver-tuego",
+  "category": 2,
+  "icon": "https://i.ibb.co/R7sD6HH/logo.png",
+  "name": "NoHutCam",
+  "uuid": "%uuid%",
+  "mainClass": "net.dezc.nohurtcam.NoHurtCam",
+  "transformerClass": "net.dezc.nohurtcam.MixinTransformer"
+}

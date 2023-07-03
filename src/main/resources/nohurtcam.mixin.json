@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.dezc.nohurtcam.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "nohurtcam.refmap.json",
+  "verbose": false,
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "GameRendererMixin"
+  ]
+}
